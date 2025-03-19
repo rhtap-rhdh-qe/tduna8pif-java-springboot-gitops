@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tduna8pif-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tduna8pif-java-springboot
